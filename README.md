@@ -14,7 +14,6 @@ This report will help Amazon understand customer behavior, identify sales trends
 - Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products based on year-to-date sales to focus on key revenue generators.
 - Top 5 Products by YTD Reviews (Bar Chart): Identify the top-rated products by year-to-date reviews to understand customer preferences.
 
-## PROBLEM STATEMENT
 ### KPI’s REQUIREMENT
 - YTD Sales: Monitor year-to-date sales to gauge overall revenue performance over time.
 -  QTD Sales: Track quarterly sales figures to identify sales trends and fluctuations.
@@ -49,7 +48,7 @@ This report will help Amazon understand customer behavior, identify sales trends
 - Men Shoes, Cameras, and Men Clothing are the top-selling categories.
 - Top products include Nikon Camera and Atomos Ninja.
 - Customer engagement is high with 19.42M reviews.
-- 
+  
 ## Final Conclusion
 To improve Amazon’s overall sales, focus should be placed on top-performing categories like Men’s Shoes, Cameras, and Men’s Clothing.
 Marketing efforts during peak months such as September and December can help capture higher seasonal demand.

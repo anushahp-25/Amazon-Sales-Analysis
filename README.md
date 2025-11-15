@@ -18,3 +18,12 @@ This report will help Amazon understand customer behavior, identify sales trends
 - Percentage of total orders delivered.
 
 - Dashboard Interaction <a href= "https://github.com/anushahp-25/Amazon-Sales-Analysis/blob/main/Dashboard%20Snapshot.png">View Dashboard</a>
+
+## Process
+- Verified the Amazon sales data for missing values and anomalies, and corrected them.
+- Ensured data consistency by fixing data types, date formats, and category fields.
+- Created pivot tables and charts based on key business questions like sales trends and top products.
+- Combined all insights into one interactive dashboard and added slicers for dynamic filtering.
+
+## Dashboard
+<img width="901" height="504" alt="Dashboard Snapshot" src="https://github.com/user-attachments/assets/21338307-f6c7-45d4-bdfb-8029afb56bf6" />

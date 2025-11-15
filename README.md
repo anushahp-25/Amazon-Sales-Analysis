@@ -21,15 +21,15 @@ This report will help Amazon understand customer behavior, identify sales trends
 - YTD Reviews: Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
 
 ## Questions (KPIs)
-- What are the monthly sales trends based on YTD Sales data?
-- How does weekly YTD Sales fluctuate across different weeks of the year?
-- Which product category has the highest year-to-date sales?
-- Which are the top 5 products based on YTD Sales?
-- Which are the top 5 products based on YTD Reviews?
-- What is the overall year-to-date total sales performance?
-- How are quarterly sales (QTD Sales) trending throughout the year?
-- What is the total number of products sold (YTD Products Sold)?
-- Which category receives the highest customer reviews (YTD Reviews)?
+- What is the overall trend of Amazon sales and orders throughout the year?
+- Which month recorded the highest revenue and order volume?
+- Which customer segment buys more – Male or Female?
+- What are the different order statuses in the Amazon dataset?
+- Which top 10 states contribute the highest sales?
+- How does age group influence the total number of orders?
+- Which sales channel (Amazon, Flipkart, Myntra, etc.) contributes the most revenue?
+- Which product category generates the highest sales?
+- What percentage of total Amazon orders were successfully delivered?
 
 - Dashboard Interaction <a href= "https://github.com/anushahp-25/Amazon-Sales-Analysis/blob/main/Dashboard%20Snapshot.png">View Dashboard</a>
 
